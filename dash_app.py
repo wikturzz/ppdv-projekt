@@ -186,7 +186,7 @@ def draw_feet_plot(values):
 
     fig.add_layout_image(
         dict(
-            source="https://github.com/wikturzz/ppdv-projekt/blob/master/img/feet.jpg",
+            source="https://raw.githubusercontent.com/wikturzz/ppdv-projekt/master/img/feet.jpg",
             x=0,
             y=1,
             sizex=1,
